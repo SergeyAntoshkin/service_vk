@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/service_vk/static/css/main.981f7211.chunk.css",
-    "main.js": "/service_vk/static/js/main.9341619b.chunk.js",
-    "main.js.map": "/service_vk/static/js/main.9341619b.chunk.js.map",
-    "runtime-main.js": "/service_vk/static/js/runtime-main.66cf5b0c.js",
-    "runtime-main.js.map": "/service_vk/static/js/runtime-main.66cf5b0c.js.map",
-    "static/css/2.3e9c613c.chunk.css": "/service_vk/static/css/2.3e9c613c.chunk.css",
-    "static/js/2.00d51b7d.chunk.js": "/service_vk/static/js/2.00d51b7d.chunk.js",
-    "static/js/2.00d51b7d.chunk.js.map": "/service_vk/static/js/2.00d51b7d.chunk.js.map",
-    "index.html": "/service_vk/index.html",
-    "precache-manifest.da59fa9b3b7c4ec4e64ebf5b8e803a07.js": "/service_vk/precache-manifest.da59fa9b3b7c4ec4e64ebf5b8e803a07.js",
-    "service-worker.js": "/service_vk/service-worker.js",
-    "static/css/2.3e9c613c.chunk.css.map": "/service_vk/static/css/2.3e9c613c.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/service_vk/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/service_vk/static/media/persik.4e1ec840.png"
+    "main.css": "/servise-test/static/css/main.981f7211.chunk.css",
+    "main.js": "/servise-test/static/js/main.9341619b.chunk.js",
+    "main.js.map": "/servise-test/static/js/main.9341619b.chunk.js.map",
+    "runtime-main.js": "/servise-test/static/js/runtime-main.91b9709d.js",
+    "runtime-main.js.map": "/servise-test/static/js/runtime-main.91b9709d.js.map",
+    "static/css/2.3e9c613c.chunk.css": "/servise-test/static/css/2.3e9c613c.chunk.css",
+    "static/js/2.c87b7ffb.chunk.js": "/servise-test/static/js/2.c87b7ffb.chunk.js",
+    "static/js/2.c87b7ffb.chunk.js.map": "/servise-test/static/js/2.c87b7ffb.chunk.js.map",
+    "index.html": "/servise-test/index.html",
+    "precache-manifest.838b0f732213ae5cb0924a0026951a95.js": "/servise-test/precache-manifest.838b0f732213ae5cb0924a0026951a95.js",
+    "service-worker.js": "/servise-test/service-worker.js",
+    "static/css/2.3e9c613c.chunk.css.map": "/servise-test/static/css/2.3e9c613c.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/servise-test/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/servise-test/static/media/persik.4e1ec840.png"
   }
 }
